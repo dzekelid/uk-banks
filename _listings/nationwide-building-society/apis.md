@@ -13,21 +13,11 @@ x-alexaRank: ""
 tags:
 - UK Banks
 - ATMs
-created: "2018-02-26"
-modified: "2018-02-26"
+created: "2018-03-10"
+modified: "2018-03-10"
 url: https://raw.githubusercontent.com/streamdata-gallery/uk-banks/master/_listings/nationwide-building-society/apis.yaml
 specificationVersion: "0.14"
-apis:
-- name: Nationwide Building Society
-  description: Nationwide Building Society is a British mutual financial institution
-    and the largest building society in the world with over 15 million members
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nationwide-building-society.png
-  humanURL: ""
-  baseURL: https://openapi.nationwide.co.uk/open-banking/v2.1/
-  tags: UK Banks
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/uk-banks/master/_listings/nationwide-building-society/commercial-credit-cards-get.md
+apis: []
 x-common:
 - type: x-developer
   url: http://openbankingapis.io/uk/nationwide-building-society
