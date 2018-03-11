@@ -14,21 +14,11 @@ x-alexaRank: ""
 tags:
 - UK Banks
 - ATMs
-created: "2018-02-26"
-modified: "2018-02-26"
+created: "2018-03-10"
+modified: "2018-03-10"
 url: https://raw.githubusercontent.com/streamdata-gallery/uk-banks/master/_listings/ulster-bank/apis.yaml
 specificationVersion: "0.14"
-apis:
-- name: Ulster Bank
-  description: Ulster Bank is a large commercial bank, and one of the traditional
-    Big Four Irish banks
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
-  humanURL: ""
-  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
-  tags: UK Banks
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/uk-banks/master/_listings/ulster-bank/unsecured-sme-loans-get.md
+apis: []
 x-common:
 - type: x-twitter
   url: https://twitter.com/ulsterbank_help
