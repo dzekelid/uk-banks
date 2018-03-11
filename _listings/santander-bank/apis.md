@@ -14,20 +14,11 @@ tags:
 - UK Banks
 - New
 - ATMs
-created: "2018-02-26"
-modified: "2018-02-26"
+created: "2018-03-10"
+modified: "2018-03-10"
 url: https://raw.githubusercontent.com/streamdata-gallery/uk-banks/master/_listings/santander-bank/apis.yaml
 specificationVersion: "0.14"
-apis:
-- name: Santander Bank
-  description: Santander Bank, N
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg
-  humanURL: ""
-  baseURL: https://openapi.santander.co.uk/open-banking/v2.1/
-  tags: UK Banks
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/uk-banks/master/_listings/santander-bank/commercial-credit-cards-get.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/santander-bank-2
