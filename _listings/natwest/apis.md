@@ -12,21 +12,11 @@ x-kinRank: "8"
 x-alexaRank: ""
 tags:
 - UK Banks
-created: "2018-02-26"
-modified: "2018-02-26"
+created: "2018-03-10"
+modified: "2018-03-10"
 url: https://raw.githubusercontent.com/streamdata-gallery/uk-banks/master/_listings/natwest/apis.yaml
 specificationVersion: "0.14"
-apis:
-- name: NatWest
-  description: National Westminster Bank, commonly known as NatWest, is a large retail
-    and commercial bank in the United Kingdom
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/natwest-logo.png
-  humanURL: ""
-  baseURL: https://openapi.natwest.com/open-banking/v2.1/
-  tags: UK Banks
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/uk-banks/master/_listings/natwest/commercial-credit-cards-get.md
+apis: []
 x-common:
 - type: x-developer
   url: http://openbankingapis.io/uk/natwest
