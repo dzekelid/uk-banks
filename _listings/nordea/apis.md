@@ -11,21 +11,11 @@ x-alexaRank: ""
 tags:
 - UK Banks
 - ATMs
-created: "2018-02-26"
-modified: "2018-02-26"
+created: "2018-03-10"
+modified: "2018-03-10"
 url: https://raw.githubusercontent.com/streamdata-gallery/uk-banks/master/_listings/nordea/apis.yaml
 specificationVersion: "0.14"
-apis:
-- name: Nordea
-  description: The Nordeas Open Banking Initiative (OBI) API, offers a safe and simple
-    way to try out the upcoming OBI
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nordea-bank-logo.png
-  humanURL: ""
-  baseURL: https://api.nordeaopenbanking.com/v2/
-  tags: UK Banks
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/uk-banks/master/_listings/nordea/payments-sepa-paymentid-confirm-put.md
+apis: []
 x-common:
 - type: x-blog
   url: https://medium.com/@NordeaOpenBanking
