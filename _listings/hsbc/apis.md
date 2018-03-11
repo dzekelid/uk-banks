@@ -17,21 +17,11 @@ tags:
 - UK Banks
 - Financial Services
 - ATMs
-created: "2018-02-26"
-modified: "2018-02-26"
+created: "2018-03-10"
+modified: "2018-03-10"
 url: https://raw.githubusercontent.com/streamdata-gallery/uk-banks/master/_listings/hsbc/apis.yaml
 specificationVersion: "0.14"
-apis:
-- name: HSBC
-  description: HSBC Holdings plc is a British multinational banking and financial
-    services holding company, tracing its origin to a hong in Hong Kong
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HSBC-Logo.png
-  humanURL: ""
-  baseURL: https://api.hsbc.com/open-banking/v2.1/
-  tags: UK Banks
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/uk-banks/master/_listings/hsbc/commercial-credit-cards-get.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/hsbc
